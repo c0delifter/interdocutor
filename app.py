@@ -32,8 +32,6 @@ def create_upload_file_widget(pdf):
 
         chunks = create_chunks(text)
         knowledge_base = create_knowledge_base(chunks)
-
-        #streamlit.write(chunks)
         create_qna_widget(knowledge_base)
 
 def create_qna_widget(knowledge_base):
