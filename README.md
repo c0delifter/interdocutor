@@ -1,7 +1,7 @@
 # Introducing interDOCutor 🤖
 A simple but nifty web app to interact with your PDF documents ChatGPT style. 
 
-Video demo here: [https://streamable.com/xnk5cv](https://streamable.com/xnk5cv)
+Demo here: [https://streamable.com/xnk5cv](https://streamable.com/xnk5cv)
 
 Technologies used:
 
