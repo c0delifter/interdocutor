@@ -20,6 +20,7 @@ Step #2: Spin up a new Docker container by opening a terminal and typing the fol
 ```
 > docker compose up
 ```
+Step #3: Open up your favorite browser and navigate to [http://localhost:8080](http://localhost:8080)
 
 # Known limitations
 
